@@ -1,0 +1,18 @@
+// ¿Qué es un array (arreglo)?
+
+Un array es una estructura que sirve para guardar varios datos del mismo tipo en una sola variable.
+En vez de crear muchas variables sueltas, usas un array y accedes a cada dato por su posición (índice).
+
+👉 Piensa en un array como una fila de cajones:
+
+Cada cajón guarda un dato
+
+Cada cajón tiene un número (posición)
+
+En Java, las posiciones empiezan en 0, no en 1
+
+Resumen:
+✔ Un array guarda muchos datos del mismo tipo
+✔ Cada dato tiene una posición (índice)
+✔ Los índices empiezan en 0
+✔ El tamaño del array es fijo
