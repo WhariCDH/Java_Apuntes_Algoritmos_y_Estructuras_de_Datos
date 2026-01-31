@@ -19,8 +19,8 @@ public class Clase03Arrays {
         System.out.println("Introduzca notas:");
         System.out.println("**********************************************");
 
-        for (int i=1; i<=cant; i++) {
-            System.out.print("Ingrese la nota "+i+"del estudiante: ");
+        for (int i=1; i<=cant; i++) {   //i=1 para que aparesca en orden al ingresar nota como la nota 1 y asi 
+            System.out.print("Ingrese la nota "+i+" del estudiante: ");
             notas[i]=entrada.nextInt();
             suma=suma+notas[i];
         }

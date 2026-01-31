@@ -3950,3 +3950,45 @@ ADVERTENCIA: Unmatched cancel notification for request id 3278
 2026.01.29 23:18:38 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java
 2026.01.29 23:18:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
 2026.01.29 23:18:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:43 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:48 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java
+2026.01.29 23:19:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:19:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:20:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.29 23:21:05 INFO  Shutting down server
+2026.01.29 23:21:05 INFO  Memory monitor stopped
+2026.01.29 23:21:05 INFO  shutting down Metals
+2026.01.29 23:21:05 INFO  Exiting server
+2026.01.30 22:24:16 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.108.2.
+2026.01.30 22:24:16 INFO  Memory monitor started
+2026.01.30 22:24:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.30 22:24:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:24:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:24:22 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.30 22:24:22 WARN  Build server is not auto-connectable.
+2026.01.30 22:24:22 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java
+2026.01.30 22:24:23 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:24:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java. Output:
+
+2026.01.30 22:24:24 INFO  time: code lens generation in 1.8s
+2026.01.30 22:24:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:24:42 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+ene. 30, 2026 10:25:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+ene. 30, 2026 10:25:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14
+ene. 30, 2026 10:25:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 15
+2026.01.30 22:25:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:14 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
+2026.01.30 22:25:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana02\Clase03Arrays.java. Using fallback presentation compiler.
