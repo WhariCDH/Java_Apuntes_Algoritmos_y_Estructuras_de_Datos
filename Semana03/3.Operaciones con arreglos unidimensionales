@@ -1,0 +1,24 @@
+//Las operaciones con arreglos unidimensionales 
+
+Son los procesos que se realizan sobre una lista ordenada de elementos del mismo tipo 
+(números, letras, etc.), almacenados en una sola dimensión. Estas operaciones permiten manipular, 
+analizar y modificar los datos del arreglo de forma eficiente.
+
+Ejemplos comunes de operaciones:
+
+-Recorrer el arreglo (leer cada elemento)
+
+-Insertar elementos
+
+-Eliminar elementos
+
+-Buscar un valor específico
+
+-Ordenar los elementos
+
+-Modificar valores
+
+-Calcular suma, promedio, mayor o menor
+
+En resumen, estas operaciones ayudan a trabajar con conjuntos de datos almacenados en forma lineal, 
+facilitando su uso en programación y resolución de problemas.
