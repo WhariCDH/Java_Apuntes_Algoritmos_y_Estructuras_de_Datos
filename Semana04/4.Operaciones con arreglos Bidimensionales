@@ -1,0 +1,72 @@
+//Operaciones con arreglos Bidimensionales
+
+📘 Concepto de Arreglos Bidimensionales
+
+Un arreglo bidimensional es una estructura de datos que almacena información en dos dimensiones:
+
+-Filas
+
+-Columnas
+
+Cada elemento se identifica mediante dos índices:
+arreglo[fila][columna]
+
+🔧 Principales operaciones con arreglos bidimensionales
+
+1. Creación e inicialización
+Definir el tamaño del arreglo y asignar valores.
+
+int[][] matriz = new int[3][4];
+
+
+2. Recorrido del arreglo
+Se realiza con dos ciclos for anidados (uno para filas y otro para columnas).
+
+for (int i = 0; i < matriz.length; i++) {
+    for (int j = 0; j < matriz[i].length; j++) {
+        System.out.print(matriz[i][j] + " ");
+    }
+}
+
+
+3. Lectura de elementos
+Acceder a un valor específico usando sus índices.
+
+int valor = matriz[1][2];
+
+
+4. Modificación de elementos
+Cambiar el valor de una posición determinada.
+
+matriz[0][0] = 10;
+
+
+5. Búsqueda de datos
+Localizar un elemento dentro del arreglo recorriendo filas y columnas.
+
+6. Operaciones matemáticas
+
+-Suma de filas o columnas
+
+-Promedios
+
+-Máximo y mínimo
+
+-Suma de matrices
+
+7. Impresión o visualización
+Mostrar el arreglo en formato de tabla para mejor lectura.
+
+🧠 Importancia
+
+Las operaciones con arreglos bidimensionales son fundamentales para:
+
+Manejo de tablas de datos
+
+Representación de matrices matemáticas
+
+Desarrollo de juegos, reportes, y sistemas académicos
+
+Procesamiento de imágenes y mapas
+
+Si quieres, puedo darte el concepto más corto, un ejemplo práctico, o ejercicios resueltos 👌
