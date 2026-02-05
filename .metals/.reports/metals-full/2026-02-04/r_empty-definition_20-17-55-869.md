@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana04/Clase01ArregloBidi.java:java/lang/System#
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana04/Clase01ArregloBidi.java
+empty definition using pc, found symbol in pc: java/lang/System#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 859
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana04/Clase01ArregloBidi.java
+text:
+```scala
 package Semana04;
 
 //Realizar un programa que muestre una matriz de
@@ -20,8 +31,15 @@ public class Clase01ArregloBidi {
                 System.out.print("["+i+"]["+j+"]= "+matriz[i][j]+" ");
             }
             // Salto de línea después de cada fila
-            System.out.println();  //Hace que cada fila de la matriz se muestre en una línea diferente.
+            Syste@@m.out.println();  //Hace que cada fila de la matriz se muestre en una línea diferente.
         }
     }
 }
 
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/lang/System#
