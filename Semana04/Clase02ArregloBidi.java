@@ -1,5 +1,9 @@
 package Semana04;
 
+//Del ejercicio anterior, ahora que muestre una
+//matriz de enteros de 3*3, pero debe de ser ingresado
+//por teclado.
+
 import java.util.Scanner;
 
 public class Clase02ArregloBidi {
