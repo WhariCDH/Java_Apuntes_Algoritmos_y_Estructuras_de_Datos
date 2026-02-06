@@ -1,0 +1,40 @@
+//lista enlazada 
+
+es una estructura de datos dinámica formada por nodos, donde cada nodo almacena un dato y una referencia (enlace) al siguiente nodo de la lista.
+
+🧩 ¿Cómo funciona?
+
+-Cada nodo tiene dos partes:
+
+    Dato (información que se guarda)
+
+    Enlace (dirección del siguiente nodo)
+
+-Los nodos no están en posiciones contiguas de memoria.
+
+-La lista comienza con un nodo llamado cabeza (head).
+
+
+🔁 Tipos de listas enlazadas
+
+-Simplemente enlazada → cada nodo apunta al siguiente
+
+-Doblemente enlazada → apunta al anterior y al siguiente
+
+-Circular → el último nodo apunta al primero
+
+
+✅ Ventajas
+
+-Tamaño dinámico
+
+-Fácil inserción y eliminación de elementos
+
+-No se desperdicia memoria
+
+
+❌ Desventajas
+
+-Acceso más lento (hay que recorrer nodo por nodo)
+
+-Mayor uso de memoria por los enlaces

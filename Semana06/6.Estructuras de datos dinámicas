@@ -1,0 +1,25 @@
+//Las estructuras de datos dinámicas 
+
+son aquellas que pueden crecer o reducir su tamaño en tiempo de ejecución, 
+según las necesidades del programa.
+
+A diferencia de las estructuras estáticas (como los arreglos de tamaño fijo), 
+las dinámicas no requieren definir su tamaño desde el inicio y gestionan la memoria 
+de forma flexible, normalmente usando memoria dinámica (heap).
+
+Ejemplos comunes:
+
+-Listas
+
+-Listas enlazadas
+
+-Pilas dinámicas
+
+-Colas dinámicas
+
+-Árboles
+
+-Grafos
+
+Idea clave: se adaptan a la cantidad de datos que se manejan, lo que las hace más
+eficientes cuando no se conoce de antemano cuántos elementos habrá.
