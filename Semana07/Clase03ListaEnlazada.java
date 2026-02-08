@@ -33,15 +33,16 @@ public class Clase03ListaEnlazada {
                     System.out.print("¿Cuántas notas desea ingresar?: ");
                     int cantidadNotas=scanner.nextInt();  //pide cuantas notas se ingresaran 
 
-                    for (int i=0; i<cantidadNotas; i++) {
+                    for (int i=0; i<cantidadNotas; i++) {   //"for" se usa cuando sabemos cuántas veces se repetirá algo.
                         double nota;
-                        do{
+                        do{    //"do" se usa cuando necesitamos que el código se ejecute al menos una vez
                             System.out.print("Ingrese la nota "+(i+1)+" (entre 0 y 20): ");
                             nota=scanner.nextDouble();
 
-                            if(nota<0 || nota>20) {
+                            if(nota<0 || nota>20) {   //"if" se usa para tomar decisiones
                                 System.out.println("Error: la nota debe estar entre 0 y 20.");
                             }
+                        //"while" se usa para repetir algo mientras una condición sea verdadera (regresa al Do si no cumple)
                         }while (nota<0 || nota>20);  //nota debe estar entre 0 y 20 si no vuelve a pedir
 
                         notas.add(nota); //guarda la nota en el arrayList
@@ -51,13 +52,13 @@ public class Clase03ListaEnlazada {
                     break;
 
                 case 2:
-                    if (notas.isEmpty()) {   //Verifica si hay notas ingresadas.
+                    if (notas.isEmpty()) {   //Verifica si hay notas ingresadas.   //if → valida que existan datos
                         System.out.println("No hay notas ingresadas.");
                     } 
-                    else {
+                    else {  //else → ejecuta el cálculo
                         double suma=0;
 
-                        for (double nota : notas) {
+                        for (double nota : notas) {   //for-each → recorre la lista y suma las notas
                             suma=suma+nota;
                         }
 
@@ -70,11 +71,11 @@ public class Clase03ListaEnlazada {
                     if (notas.isEmpty()) {
                         System.out.println("No hay notas ingresadas.");
                     } else {
-                        double mayor=notas.get(0);  //Se asume que la primera nota es la mayor inicialmente.
+                        double mayor=notas.get(0);  //Tomar la primera nota como “la mayor” no sinifica realmente que sea la mayor 
 
-                        for (double nota : notas) {
-                            if (nota>mayor) {
-                                mayor=nota;
+                        for (double nota : notas) {  //recorre cada elemento de la lista notas 
+                            if (nota>mayor) {   //¿La nota actual es mayor que la que tengo guardada como mayor?”
+                                mayor=nota;     //Si nota es mayor → reemplaza a mayor     Si no → mayor se queda igual
                             }
                         }
 

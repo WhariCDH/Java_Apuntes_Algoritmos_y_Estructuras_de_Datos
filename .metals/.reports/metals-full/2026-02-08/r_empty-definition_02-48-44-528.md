@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase02ArrayUni.java:java/io/PrintStream#println(+8).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase02ArrayUni.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1018
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase02ArrayUni.java
+text:
+```scala
 package Semana03;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -31,7 +42,14 @@ public class Clase02ArrayUni {
         Arrays.sort(numeros);
 
         // Mostrar los elementos del arreglo ordenado
-        System.out.println("Arreglo ordenado: "+Arrays.toString(numeros));
-        
+        System.out.pr@@intln("Arreglo ordenado: "+Arrays.toString(numeros));
+        scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).

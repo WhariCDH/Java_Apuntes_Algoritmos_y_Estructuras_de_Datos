@@ -26,6 +26,8 @@ public class Clase04ArrayLista {
 
         for (int i=1; i<=numero; i++) {
             System.out.println(i+ "^2 = " +listaCuadrados.get(i - 1));   //Si tu contador empieza en 1 y la lista empieza en 0 → usa i - 1.
+        
+        scanner.close();
         }
     }
 }

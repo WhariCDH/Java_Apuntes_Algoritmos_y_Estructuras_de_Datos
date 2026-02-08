@@ -46,6 +46,7 @@ public class Clase04ArrayUni {
         } 
         else {
             System.out.println("El numero "+buscar+" no fue encontrado en el arreglo.");
+
         }
     }
 }

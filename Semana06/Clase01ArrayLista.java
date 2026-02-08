@@ -18,6 +18,7 @@ public class Clase01ArrayLista {
 
         for (int i=0; i<valores.size(); i++) {   //"valores.size" devuelve los valores al array
             System.out.println(valores.get(i));  //"valores.get(i)" obtiene el elemento en la posición i
+
         }
     }
 }
