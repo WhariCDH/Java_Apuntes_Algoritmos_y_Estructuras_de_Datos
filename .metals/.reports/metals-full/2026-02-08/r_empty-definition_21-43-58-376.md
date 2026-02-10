@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana08/Clase01ListaEnlazadaSimple.java:java/io/PrintStream#println(+8).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana08/Clase01ListaEnlazadaSimple.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1537
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana08/Clase01ListaEnlazadaSimple.java
+text:
+```scala
 package Semana08;
 
 import java.util.ArrayList;
@@ -33,30 +44,29 @@ public class Clase01ListaEnlazadaSimple {
                     for (int i=0; i<cantidadNotas; i++) {
                         double nota;
                         do {
-                            System.out.print("Ingrese nota " +(i + 1)+ " [0 - 20]: ");
+                            System.out.print("Ingrese nota " + (i + 1) + " [0 - 20]: ");
                             nota=scanner.nextDouble();
 
-                            if (nota<0 || nota>20) {    //El if cumple una función informativa (avisa el error y por que esta en bucle)
-                                System.out.println("Error: la nota debe estar entre 0 y 20.");
+                            if (nota<0 || nota>20) {
+                                System.out.@@println("Error: la nota debe estar entre 0 y 20.");
                             }
                         } while (nota<0 || nota>20);
 
-                        notas.add(nota);  //guarda el valor que el usuario ingresó en la variable nota dentro del ArrayList notas.
+                        notas.add(nota);  //guarda la nota
                     }
                     System.out.println("Notas ingresadas correctamente.");
                     break;
 
                 case 2:
-                    if (notas.isEmpty()) {   //Verifica si la lista de notas esta vacia 
+                    if (notas.isEmpty()) {
                         System.out.println("Primero debe ingresar las notas.");
-                    } 
-                    else {   //Se ejecuta solo si la lista no esta vacia 
-                        double suma=0;   //Guarda la suma total de todas las notas
-                        for (double nota : notas) {  //Recorre cada elemento del ArrayList notas
-                            suma=suma+nota;
+                    } else {
+                        double suma = 0;
+                        for (double nota : notas) {
+                            suma += nota;
                         }
-                        double promedio = suma / notas.size();   //notas.size() → cantidad de notas
-                        System.out.println("El promedio es: "+promedio);
+                        double promedio = suma / notas.size();
+                        System.out.println("El promedio es: " + promedio);
                     }
                     break;
 
@@ -66,11 +76,11 @@ public class Clase01ListaEnlazadaSimple {
                     } else {
                         double notaMayor = notas.get(0);
                         for (double nota : notas) {
-                            if (nota>notaMayor) {
-                                notaMayor=nota;
+                            if (nota > notaMayor) {
+                                notaMayor = nota;
                             }
                         }
-                        System.out.println("La nota mayor es: " +notaMayor);
+                        System.out.println("La nota mayor es: " + notaMayor);
                     }
                     break;
 
@@ -80,11 +90,11 @@ public class Clase01ListaEnlazadaSimple {
                     } else {
                         double notaMenor = notas.get(0);
                         for (double nota : notas) {
-                            if (nota<notaMenor) {
-                                notaMenor=nota;
+                            if (nota < notaMenor) {
+                                notaMenor = nota;
                             }
                         }
-                        System.out.println("La nota menor es: " +notaMenor);
+                        System.out.println("La nota menor es: " + notaMenor);
                     }
                     break;
 
@@ -92,13 +102,14 @@ public class Clase01ListaEnlazadaSimple {
                     if (notas.isEmpty()) {
                         System.out.println("Primero debe ingresar las notas.");
                     } else {
-                        System.out.println("Notas actuales: " +notas);
-                        System.out.print("Ingrese el número de la nota a eliminar (1 a "+notas.size()+"): ");   
+                        System.out.println("Notas actuales: " + notas);
+                        System.out.print("Ingrese el número de la nota a eliminar (1 a "
+                                + notas.size() + "): ");
 
-                        int indiceEliminar=scanner.nextInt();
+                        int indiceEliminar = scanner.nextInt();
 
-                        if (indiceEliminar>= 1 && indiceEliminar<=notas.size()) {  //Evita errores asegurándose de que el número esté dentro del rango válido.
-                            notas.remove(indiceEliminar - 1);    //como en lista empieza de 0 y escala de esa manera se debe restar 1 para asegurar lo escogido 
+                        if (indiceEliminar >= 1 && indiceEliminar <= notas.size()) {
+                            notas.remove(indiceEliminar - 1);
                             System.out.println("Nota eliminada correctamente.");
                         } else {
                             System.out.println("Índice no válido.");
@@ -119,3 +130,10 @@ public class Clase01ListaEnlazadaSimple {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
