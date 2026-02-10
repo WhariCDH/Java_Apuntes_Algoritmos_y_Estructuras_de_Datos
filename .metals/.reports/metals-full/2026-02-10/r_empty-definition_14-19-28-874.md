@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java:java/io/PrintStream#println(+8).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 2882
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java
+text:
+```scala
 package Semana09;
 
 import java.util.LinkedList;
@@ -29,7 +40,7 @@ public class Clase01ListaEnlazadaDoble {
             // Mostrar lista actual
             System.out.println("\n--- Lista Actual ---");
             for (int i=0; i<lista.size(); i++) {   //"Lista.size()" Devuelve cuántos elementos hay dentro de la lista
-                System.out.println("Índice " +( i )+": " +lista.get(i));
+                System.out.println("Índice " +( i + 1 )+": " +lista.get(i));
             }
 
             // Menú de opciones
@@ -59,10 +70,10 @@ public class Clase01ListaEnlazadaDoble {
                     valor=scanner.nextLine();  //el texto se guarda en valor 
 
                     if (lista.contains(valor)) {  //el texto escrito anteriormente en "valor" es buscado en lista.contains 
-                        int indice=lista.indexOf(valor);  //"indice" guarda el posicionamiento que se encuntra el valor en la lista
-                        System.out.println("El valor '" +valor+ "' se encuentra en el índice " +indice+ ".");
+                        int indice=lista.indexOf(valor);
+                        System.out.println("El valor '" + valor + "' se encuentra en el índice " + indice + ".");
                     } else {
-                        System.out.println("El valor '" +valor+ "' no se encontró.");
+                        System.out.prin@@tln("El valor '" + valor + "' no se encontró.");
                     }
                     break;
 
@@ -109,3 +120,10 @@ public class Clase01ListaEnlazadaDoble {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
