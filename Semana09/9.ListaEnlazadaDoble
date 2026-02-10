@@ -1,0 +1,21 @@
+//¿Qué es una lista enlazada doble?
+
+Una lista enlazada doble (o doubly linked list) es una estructura de datos dinámica formada por nodos, donde:
+
+-Cada nodo guarda un dato
+
+-Cada nodo tiene dos referencias (enlaces):
+
+-una al nodo siguiente
+
+-otra al nodo anterior
+
+Así, la lista se puede recorrer hacia adelante y hacia atrás.
+
+
+🧩 Estructura de un nodo
+
+Cada nodo tiene tres partes:
+
+[ anterior | dato | siguiente ]
+
