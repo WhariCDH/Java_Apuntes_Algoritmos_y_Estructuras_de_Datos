@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java:java/io/PrintStream#print(+7).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#print(+7).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 3108
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana09/Clase01ListaEnlazadaDoble.java
+text:
+```scala
 package Semana09;
 
 import java.util.LinkedList;
@@ -67,24 +78,24 @@ public class Clase01ListaEnlazadaDoble {
                     break;
 
                 case 3:
-                    System.out.print("Ingresa el valor a editar: ");
-                    valor=scanner.nextLine();   //El texto se guarda en "valor"
+                    System.out.pr@@int("Ingresa el valor a editar: ");
+                    valor=scanner.nextLine();
 
-                    if (lista.contains(valor)) {  //Verifica si el valor existe en la lista, if si existe y else si no
-                        int indice=lista.indexOf(valor);  //Busca la posición del valor y lo guarda en indice
+                    if (lista.contains(valor)) {
+                        int indice=lista.indexOf(valor);
                         System.out.println("El valor '" +valor+ "' se encuentra en el índice " +indice+ ".");
                         System.out.print("Ingresa el nuevo valor: ");
-                        String nuevoValor=scanner.nextLine();   //se guarda en "nuevoValor"
-                        lista.set(indice, nuevoValor);  //Reemplaza el valor antiguo por el nuevo
+                        String nuevoValor=scanner.nextLine();
+                        lista.set(indice, nuevoValor);
                         System.out.println("Valor editado.");
                     } else {
-                        System.out.println("El valor '" +valor+ "' no se encontró.");
+                        System.out.println("El valor '" + valor + "' no se encontró.");
                     }
                     break;
 
                 case 4:
                     System.out.print("Ingresa el valor a eliminar: ");
-                    valor=scanner.nextLine();
+                    valor = scanner.nextLine();
 
                     if (lista.remove(valor)) {
                         System.out.println("Valor eliminado.");
@@ -107,3 +118,10 @@ public class Clase01ListaEnlazadaDoble {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#print(+7).
