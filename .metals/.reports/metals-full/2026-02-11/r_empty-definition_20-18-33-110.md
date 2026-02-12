@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java:java/io/PrintStream#print(+7).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#print(+7).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 5438
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+text:
+```scala
 package Semana10;
 
 import java.util.ArrayList;
@@ -132,11 +143,11 @@ public class Pregunta02 {
                     if (notas.isEmpty()) {
                         System.out.println("Primero debe ingresar las notas.");
                     } else {
-                        System.out.print("Ingrese la nota que desea buscar: ");
+                        System.out.p@@rint("Ingrese la nota que desea buscar: ");
                         double notaABuscar=scanner.nextDouble();
 
-                        if (notas.contains(notaABuscar)) {  //"contains()" verifica si existe el numero 
-                            int posicion=notas.indexOf(notaABuscar);  //"indexOf()" devuelve el índice donde se encuentra el valor.
+                        if (notas.contains(notaABuscar)) {
+                            int posicion=notas.indexOf(notaABuscar);
                             System.out.println("La nota " + notaABuscar+ " se encuentra en el índice " +posicion+ ".");
                         } else {
                             System.out.println("La nota " +notaABuscar+ " no fue encontrada.");
@@ -157,3 +168,10 @@ public class Pregunta02 {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#print(+7).

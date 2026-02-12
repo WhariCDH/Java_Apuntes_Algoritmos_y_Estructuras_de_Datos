@@ -1,0 +1,30 @@
+Pregunta 1:
+Insertar: Añade un nuevo elemento al final de las listas.
+Clear: Nos ayuda a eliminar los elementos de la lista.
+Seze: Regresa el número de elementos a la lista.
+Set: Remplaza las posiciones de los elementos a uno nuevo en la lista.
+Remove: Elimina los elementos de la lista.
+Contains: Verifica si un elemento esta en lista
+
+
+Datos relevantes:
+notas.size(): Dice cuántos elementos hay
+notas.isEmpty(): Dice si está vacía
+notas.get(0): Devuelve el primer elemento 
+
+set(): Reemplazar un elemento existente en una posición específica.
+
+*********************************************************************************
+contains() pregunta:
+
+¿Ese valor existe dentro de la lista?
+
+Devuelve:
+
+-true → sí existe
+
+-false → no existe
+
+***********************************************************************************
+
+indexOf() devuelve el índice donde se encuentra el valor.

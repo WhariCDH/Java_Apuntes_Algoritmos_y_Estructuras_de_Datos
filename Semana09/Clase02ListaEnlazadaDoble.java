@@ -61,8 +61,8 @@ public class Clase02ListaEnlazadaDoble {
                         System.out.println("Primero debes ingresar los valores (opción 1).");
                     } else {
                         // Restar los valores en secuencia
-                        double resta=valores.get(0);
-                        for (int i=1; i<valores.size(); i++) {
+                        double resta=valores.get(0);   //La variable "resta" toma el primer valor de la lsita "valores"
+                        for (int i=1; i<valores.size(); i++) {  //Empiesa en 1 por que la variable 0 que es el numero que empieza a restar ya lo estamos usando como primero en la parte de arriba 
                             resta=resta-valores.get(i);
                         }
                         System.out.println("La resta de los valores es: " + resta);

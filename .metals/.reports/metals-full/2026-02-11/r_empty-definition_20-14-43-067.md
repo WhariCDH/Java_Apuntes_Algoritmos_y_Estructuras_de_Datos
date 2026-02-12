@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java:java/io/PrintStream#println(+8).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 4991
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+text:
+```scala
 package Semana10;
 
 import java.util.ArrayList;
@@ -120,7 +131,7 @@ public class Pregunta02 {
                             } while (nuevaNota<0 || nuevaNota>20);
 
                             notas.set(index, nuevaNota);
-                            System.out.println("Nota actualizada correctamente.");
+                            System.out.@@println("Nota actualizada correctamente.");
 
                         } else {
                             System.out.println("Índice no válido.");
@@ -133,13 +144,14 @@ public class Pregunta02 {
                         System.out.println("Primero debe ingresar las notas.");
                     } else {
                         System.out.print("Ingrese la nota que desea buscar: ");
-                        double notaABuscar=scanner.nextDouble();
+                        double notaABuscar = scanner.nextDouble();
 
-                        if (notas.contains(notaABuscar)) {  //"contains()" verifica si existe el numero 
-                            int posicion=notas.indexOf(notaABuscar);  //"indexOf()" devuelve el índice donde se encuentra el valor.
-                            System.out.println("La nota " + notaABuscar+ " se encuentra en el índice " +posicion+ ".");
+                        if (notas.contains(notaABuscar)) {
+                            int posicion = notas.indexOf(notaABuscar);
+                            System.out.println("La nota " + notaABuscar
+                                    + " se encuentra en el índice " + posicion + ".");
                         } else {
-                            System.out.println("La nota " +notaABuscar+ " no fue encontrada.");
+                            System.out.println("La nota " + notaABuscar + " no fue encontrada.");
                         }
                     }
                     break;
@@ -157,3 +169,10 @@ public class Pregunta02 {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).

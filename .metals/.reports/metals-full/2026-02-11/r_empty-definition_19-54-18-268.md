@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java:java/lang/System#
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+empty definition using pc, found symbol in pc: java/lang/System#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 3350
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana10/Pregunta02.java
+text:
+```scala
 package Semana10;
 
 import java.util.ArrayList;
@@ -83,11 +94,11 @@ public class Pregunta02 {
 
                 case 4:
                     if (notas.isEmpty()) {
-                        System.out.println("Primero debe ingresar las notas.");
+                        Syst@@em.out.println("Primero debe ingresar las notas.");
                     } else {
-                        double notaMenor=notas.get(0);  //Asumimos que la primera nota es menor "get"
+                        double notaMenor=notas.get(0);
 
-                        for (double nota : notas) {  //"nota" toma cada nota de notas 1 en 1
+                        for (double nota : notas) {
                             if (nota<notaMenor) {
                                 notaMenor=nota;
                             }
@@ -101,23 +112,24 @@ public class Pregunta02 {
                     if (notas.isEmpty()) {
                         System.out.println("Primero debe ingresar las notas.");
                     } else {
-                        System.out.print("Ingrese el índice de la nota que desea editar (0 a "+ (notas.size() - 1) + "): ");
+                        System.out.print("Ingrese el índice de la nota que desea editar (0 a "
+                                + (notas.size() - 1) + "): ");
 
-                        int index=scanner.nextInt();  //guardamos en "index"
+                        int index = scanner.nextInt();
 
-                        if (index>=0 && index<notas.size()) {
+                        if (index >= 0 && index < notas.size()) {
 
                             double nuevaNota;
 
                             do {
                                 System.out.print("Ingrese la nueva nota (entre 0 y 20): ");
-                                nuevaNota=scanner.nextDouble();
+                                nuevaNota = scanner.nextDouble();
 
-                                if (nuevaNota<0 || nuevaNota>20) {
+                                if (nuevaNota < 0 || nuevaNota > 20) {
                                     System.out.println("Error: La nota debe estar entre 0 y 20.");
                                 }
 
-                            } while (nuevaNota<0 || nuevaNota>20);
+                            } while (nuevaNota < 0 || nuevaNota > 20);
 
                             notas.set(index, nuevaNota);
                             System.out.println("Nota actualizada correctamente.");
@@ -133,13 +145,14 @@ public class Pregunta02 {
                         System.out.println("Primero debe ingresar las notas.");
                     } else {
                         System.out.print("Ingrese la nota que desea buscar: ");
-                        double notaABuscar=scanner.nextDouble();
+                        double notaABuscar = scanner.nextDouble();
 
-                        if (notas.contains(notaABuscar)) {  //"contains()" verifica si existe el numero 
-                            int posicion=notas.indexOf(notaABuscar);  //"indexOf()" devuelve el índice donde se encuentra el valor.
-                            System.out.println("La nota " + notaABuscar+ " se encuentra en el índice " +posicion+ ".");
+                        if (notas.contains(notaABuscar)) {
+                            int posicion = notas.indexOf(notaABuscar);
+                            System.out.println("La nota " + notaABuscar
+                                    + " se encuentra en el índice " + posicion + ".");
                         } else {
-                            System.out.println("La nota " +notaABuscar+ " no fue encontrada.");
+                            System.out.println("La nota " + notaABuscar + " no fue encontrada.");
                         }
                     }
                     break;
@@ -157,3 +170,10 @@ public class Pregunta02 {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/lang/System#
