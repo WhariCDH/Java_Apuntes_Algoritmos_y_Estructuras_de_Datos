@@ -1,0 +1,34 @@
+📚Pila 
+
+Una pila (stack) es una estructura de datos lineal que sigue el principio LIFO 
+(Last In, First Out), es decir, el último elemento que entra es el primero que sale.
+
+Las pilas permiten agregar y quitar elementos únicamente desde un extremo llamado cima (top). 
+Son muy utilizadas en programación para:
+
+-Manejo de llamadas a funciones (pila de ejecución).
+
+-Evaluación de expresiones matemáticas.
+
+-Deshacer/rehacer acciones.
+
+-Validación de paréntesis o estructuras anidadas.
+
+
+//Operaciones con pilas
+
+Métodos de la clase Stack:
+
+-Stack(). Constructor, crea una pila vacía
+
+-push. Agregar elementos a la pila
+
+-pop. Devuelve el elemento que esta en la cima de la pila y lo retira.
+
+-peek. Devuelve el elemento que esta en la cima de la pila sin retirarlo.
+
+-Size. Obtiene la cantidad de elementos que tiene la pila
+
+-Clear. Limpia todos elementos de la pila
+
+-Empty. Devuelve verdadero si la pila contiene datos, falso en caso contrario.
