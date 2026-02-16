@@ -1,0 +1,54 @@
+🌳 Árbol
+Definición:
+Estructura de datos jerárquica formada por nodos conectados desde una raíz hacia abajo en forma de ramas.
+
+
+//Partes básicas
+
+-Raíz: primer nodo
+
+-Nodo: cada elemento
+
+-Padre / Hijo: relación entre nodos
+
+-Hoja: nodo sin hijos
+
+-Nivel: profundidad en el árbol
+
+
+//Propiedades clave
+
+-No es lineal (no va en fila como cola o lista)
+
+-Tiene niveles
+
+-Solo existe un camino desde la raíz a cada nodo
+
+-No tiene ciclos
+
+
+//Tipos importantes
+
+-Árbol binario → máximo 2 hijos
+
+-Árbol de búsqueda (BST) → ordena para buscar rápido
+
+-Heap → base de las colas de prioridad
+
+
+//Para qué sirve
+
+-Organizar información con jerarquía:
+
+-carpetas del sistema
+
+-base de datos
+
+-IA
+
+-compiladores
+
+-Idea principal
+
+
+Un árbol organiza datos como un organigrama: desde un origen (raíz) se ramifica en niveles.

@@ -1,14 +1,19 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase03Cola.java:java/util/Queue#poll().
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase03Cola.java
+empty definition using pc, found symbol in pc: java/util/Queue#poll().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 958
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase03Cola.java
+text:
+```scala
 package Semana12;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;  //sirve para general numeros enteros aleatorios 
-
-//En este programa, simularemos el proceso de atención a los clientes
-//en un banco. Cada cliente tiene que esperar su turno en una cola y es
-//atendido por un cajero. La atención de cada cliente toma un tiempo
-//variable. Una vez atendido, el cliente es removido de la cola.
-//Creamos una clase llamada: cliente.
-//Creamos un main class llamado: atencion_cliente
 
 public class Clase03Cola {
 
@@ -22,24 +27,20 @@ public class Clase03Cola {
         colaClientes.add(new Cliente("Cliente 2", random.nextInt(10) + 1));
         colaClientes.add(new Cliente("Cliente 3", random.nextInt(10) + 1));
         colaClientes.add(new Cliente("Cliente 4", random.nextInt(10) + 1));
-        colaClientes.add(new Cliente("Cliente 5", random.nextInt(10) + 1));  
-        colaClientes.add(new Cliente("Cliente 6", random.nextInt(10) + 1));
-        colaClientes.add(new Cliente("Cliente 7", random.nextInt(10) + 1));
-        colaClientes.add(new Cliente("Cliente 8", random.nextInt(10) + 1));
 
         int tiempoTotalEspera=0;
 
         // Procesar cada cliente en la cola
         while (!colaClientes.isEmpty()) {  //"while" El ciclo continúa hasta que la cola quede vacía.
 
-            Cliente clienteActual=colaClientes.poll(); // "poll" devuelve y elimina el primero
+            Cliente clienteActual=colaClientes.p@@oll(); // "poll" devuelve y elimina el primero
 
             System.out.println("Atendiendo a: " +clienteActual.nombre);
             System.out.println("Tiempo de atención estimado: " +clienteActual.tiempoAtencion+ " minutos");
 
             System.out.println("Tiempo total de espera para " +clienteActual.nombre+ ": " +tiempoTotalEspera+ " minutos");
 
-            tiempoTotalEspera=tiempoTotalEspera+clienteActual.tiempoAtencion; // Actualizar espera 
+            tiempoTotalEspera += clienteActual.tiempoAtencion; // Actualizar espera
             System.out.println();
         }
 
@@ -57,3 +58,10 @@ public class Clase03Cola {
         }
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/Queue#poll().
