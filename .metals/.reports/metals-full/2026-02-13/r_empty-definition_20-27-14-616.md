@@ -1,14 +1,25 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase05Pila.java:java/util/Scanner#nextLine().
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase05Pila.java
+empty definition using pc, found symbol in pc: java/util/Scanner#nextLine().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1034
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase05Pila.java
+text:
+```scala
 package Semana11;
 
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Clase03Pila {
+public class Clase05Pila {
 
     public static void main(String[] args) {
 
         Scanner scanner=new Scanner(System.in);
-        Stack<String> pila=new Stack<>();  //"string" almacena texto 
+        Stack<String> pila=new Stack<>();
         int opcion;
 
         do {
@@ -21,48 +32,48 @@ public class Clase03Pila {
             System.out.print("Seleccione una opcion: ");
 
             opcion=scanner.nextInt();
-            scanner.nextLine();        //Para limpiar el buffer
+            scanner.nextLine(); // Limpiar buffer
 
             switch (opcion) {
 
                 case 1:
                     System.out.print("¿Cuantos elementos desea agregar?: ");
                     int cantidad=scanner.nextInt();
-                    scanner.nextLine();
+                    scanner.n@@extLine();
 
                     for (int i=1; i<=cantidad; i++) {
                         System.out.print("Ingrese el valor " +i+ ": ");
                         String valor=scanner.nextLine();
-                        System.out.println("Elemento " +i+ " agregado: " +valor);
-                        pila.push(valor);   //"valor" se agrega con push a "pila"
-                    } 
+                        pila.push(valor);  //Estamos agregando "valor" en la pila 
+                        System.out.println("Elemento " + i + " agregado: " +valor);
+                    }
                     break;
 
                 case 2: // Pop
-                    if (!pila.isEmpty()) {  //"!pila" Si la pila NO está vacía...
-                        String elementoEliminado=pila.pop();  //"pop" devuelve el elelemtno de la cima y lo elimina de la pila
-                        System.out.println("Elemento eliminado: " +elementoEliminado);
+                    if (!pila.isEmpty()) {
+                        String elementoEliminado = pila.pop();
+                        System.out.println("Elemento eliminado: " + elementoEliminado);
                     } else {
-                        System.out.println("La pila esta vacía, no se puede eliminar ningún elemento.");
+                        System.out.println("La pila está vacía, no se puede eliminar ningún elemento.");
                     }
                     break;
 
                 case 3: // Peek
                     if (!pila.isEmpty()) {
-                        System.out.println("Elemento en la cima: " +pila.peek());  //"peek" muestra el elemento que esta en la cima de la pila
+                        System.out.println("Elemento en la cima: " + pila.peek());
                     } else {
                         System.out.println("La pila está vacía.");
                     }
                     break;
 
-                case 4: // Recorrer pila
-                    if (!pila.isEmpty()) {    //isEmpty() devuelve true si está vacía
+                case 4: // Recorrer
+                    if (!pila.isEmpty()) {
                         System.out.println("Elementos en la pila:");
-                        for (String elemento : pila) {   //elemento va tomando los valores de pila uno por uno, automáticamente
-                            System.out.println(elemento);  //imprime cada elemento uno por uno.
+                        for (String elemento : pila) {
+                            System.out.println(elemento);
                         }
                     } else {
-                        System.out.println("La pila esta vacia.");
+                        System.out.println("La pila está vacía.");
                     }
                     break;
 
@@ -80,3 +91,10 @@ public class Clase03Pila {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/Scanner#nextLine().

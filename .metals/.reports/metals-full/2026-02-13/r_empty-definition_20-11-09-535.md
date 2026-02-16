@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase03Pila.java:java/util/Vector#isEmpty().
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase03Pila.java
+empty definition using pc, found symbol in pc: java/util/Vector#isEmpty().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1559
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana11/Clase03Pila.java
+text:
+```scala
 package Semana11;
 
 import java.util.Scanner;
@@ -39,7 +50,7 @@ public class Clase03Pila {
                     break;
 
                 case 2: // Pop
-                    if (!pila.isEmpty()) {  //"!pila" Si la pila NO está vacía...
+                    if (!pila.i@@sEmpty()) {  //"Si la pila NO está vacía..."
                         String elementoEliminado=pila.pop();  //"pop" devuelve el elelemtno de la cima y lo elimina de la pila
                         System.out.println("Elemento eliminado: " +elementoEliminado);
                     } else {
@@ -80,3 +91,10 @@ public class Clase03Pila {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/Vector#isEmpty().
