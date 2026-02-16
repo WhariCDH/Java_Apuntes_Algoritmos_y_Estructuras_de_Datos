@@ -4,7 +4,7 @@ public class Clase01ArbolBinario {
 
     public static void main(String[] args) {
 
-        ArbolBinario arbol = new ArbolBinario();
+        ArbolBinario arbol=new ArbolBinario();
 
         arbol.insertar(5);
         arbol.insertar(3);

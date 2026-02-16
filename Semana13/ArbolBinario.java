@@ -2,15 +2,15 @@ package Semana13;
 
 class ArbolBinario {
 
-    Nodo raiz;
+    Nodo raiz;   //"raiz" Es el primer nodo del árbol (el inicio de todo).
 
     public ArbolBinario() {
-        raiz = null;
+        raiz=null;
     }
 
     // Insertar un nodo
     public void insertar(int valor) {
-        raiz = insertarRecursivo(raiz, valor);
+        raiz=insertarRecursivo(raiz, valor);  //Llama a una función recursiva que decide dónde colocar el número.
     }
 
     private Nodo insertarRecursivo(Nodo raiz, int valor) {

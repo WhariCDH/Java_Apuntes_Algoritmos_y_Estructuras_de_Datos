@@ -1,0 +1,8 @@
+operaciones principales en un árbol binario suelen ser:
+
+1.Insertar: Agregar un nuevo nodo en el lugar adecuado en el
+árbol.
+2.Buscar: Encontrar un nodo específico en el árbol.
+3.Eliminar: Quitar un nodo del árbol.
+4.Recorrer: Visitar los nodos en un orden específico, como
+preorden, inorden o postorden.
