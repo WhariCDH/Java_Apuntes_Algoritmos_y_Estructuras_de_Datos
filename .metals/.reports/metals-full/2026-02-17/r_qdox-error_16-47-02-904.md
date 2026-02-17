@@ -1,12 +1,12 @@
-error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase02Cola.java
-file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase02Cola.java
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java
 ### com.thoughtworks.qdox.parser.ParseException: syntax error @[1,1]
 
 error in qdox parser
 file content:
 ```java
 offset: 0
-uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase02Cola.java
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java
 text:
 ```scala
 @@
@@ -64,4 +64,4 @@ com.thoughtworks.qdox.parser.impl.Parser.yyerror(Parser.java:2025)
 ```
 #### Short summary: 
 
-QDox parse error in file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Clase02Cola.java
+QDox parse error in file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java
