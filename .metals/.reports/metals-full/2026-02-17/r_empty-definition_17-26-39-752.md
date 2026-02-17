@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java:java/lang/System#out.
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java
+empty definition using pc, found symbol in pc: java/lang/System#out.
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 962
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java
+text:
+```scala
 package Semana02;
 
 import java.util.Scanner;
@@ -27,7 +38,7 @@ public class Clase03Arrays {
 
         promedio=suma/cant;
 
-        System.out.println("**********************************************");
+        System.@@out.println("**********************************************");
         System.out.println("Tu promedio es: "+promedio);
 
         if (promedio>10) {
@@ -37,8 +48,13 @@ public class Clase03Arrays {
         else {
             System.out.println("No estas desaprobado");
             System.out.println("**********************************************");
-
         }
-        entrada.close();
-    }
+        Scanner.close();
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/lang/System#out.

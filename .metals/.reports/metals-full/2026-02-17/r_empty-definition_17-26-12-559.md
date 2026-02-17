@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java:java/util/Scanner#
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java
+empty definition using pc, found symbol in pc: java/util/Scanner#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1435
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana02/Clase03Arrays.java
+text:
+```scala
 package Semana02;
 
 import java.util.Scanner;
@@ -37,8 +48,14 @@ public class Clase03Arrays {
         else {
             System.out.println("No estas desaprobado");
             System.out.println("**********************************************");
-
         }
-        entrada.close();
+        @@Scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/Scanner#
