@@ -37,7 +37,6 @@ public class Clase03Arrays {
         else {
             System.out.println("No estas desaprobado");
             System.out.println("**********************************************");
-
         }
         entrada.close();
     }

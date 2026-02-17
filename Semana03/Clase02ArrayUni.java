@@ -33,5 +33,6 @@ public class Clase02ArrayUni {
         // Mostrar los elementos del arreglo ordenado
         System.out.println("Arreglo ordenado: "+Arrays.toString(numeros));
         
+        scanner.close();
     }
 }

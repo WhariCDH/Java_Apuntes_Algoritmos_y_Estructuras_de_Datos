@@ -1,5 +1,16 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase04ArrayUni.java:java/util/Scanner#
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase04ArrayUni.java
+empty definition using pc, found symbol in pc: java/util/Scanner#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 42
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana03/Clase04ArrayUni.java
+text:
+```scala
 package Semana03;
-import java.util.Scanner;
+import java.util.Scanne@@r;
 
 //Del ejercicio N°03, Realizar el mismo
 //procedimiento, pero ahora Ud. Debe de ingresar
@@ -51,3 +62,10 @@ public class Clase04ArrayUni {
         scanner.close();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/util/Scanner#

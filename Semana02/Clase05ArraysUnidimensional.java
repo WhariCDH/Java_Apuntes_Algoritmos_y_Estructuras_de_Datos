@@ -48,5 +48,6 @@ public class Clase05ArraysUnidimensional {
         else{
             System.out.println("No ha introducido números negativos");
         }
+        sc.close();
     }
 }
