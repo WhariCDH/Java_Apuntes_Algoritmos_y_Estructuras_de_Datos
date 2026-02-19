@@ -1,12 +1,12 @@
-error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Paciente.java
-file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Paciente.java
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica03.java
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica03.java
 ### com.thoughtworks.qdox.parser.ParseException: syntax error @[1,1]
 
 error in qdox parser
 file content:
 ```java
 offset: 0
-uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Paciente.java
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica03.java
 text:
 ```scala
 @@
@@ -64,4 +64,4 @@ com.thoughtworks.qdox.parser.impl.Parser.yyerror(Parser.java:2025)
 ```
 #### Short summary: 
 
-QDox parse error in file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana12/Paciente.java
+QDox parse error in file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica03.java

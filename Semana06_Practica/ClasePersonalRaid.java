@@ -14,7 +14,9 @@ public class ClasePersonalRaid {
 
         for (Personal raid : GT ){ 
         System.out.println("El jugador: " +raid.Nombre+ " tiene " +raid.Edad+ " vive en " +raid.Pais+ " y su telefono es " +raid.Telefono);
-        }
+        System.out.println("Su DNI es: " +raid.DNI);
+    }
+
 
     }
 }
