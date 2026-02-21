@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java:java/io/PrintStream#println(+8).
+file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1142
+uri: file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java
+text:
+```scala
 package Semana06_Practica;
 import java.util.ArrayList;
 
@@ -21,26 +32,10 @@ public class GuardadoH {
         Hentay.add("Hatsujou Switch Otosareta Shoujo-tachi The Animation");
         Hentay.add("Hakoiri Shoujo - Virgin Territory");
         Hentay.add("Furueru Kuchibiru");
-        Hentay.add("Fella Pure The Animation");
-        Hentay.add("Betsuni Anta no Tame ni Ookiku Nattan Janain Dakarane!!");
-        Hentay.add("Baku Ane 2 Otouto Ippai Shibocchau zo! The Animation");
-        Hentay.add("Anoko to Iikoto");
-        Hentay.add("Iinari! Saimin Kanojo");
-        Hentay.add("Koiito Kinenbi The Animation");
-        Hentay.add("Machi Gurumi no Wana");
-        Hentay.add("Rasen Sokou no Dystopia");
-        Hentay.add("S H H na Oneesan wa S D ka");
-        Hentay.add("Kagirohi Shaku Kei");
-        Hentay.add("Toriko no Kusari ");
-        Hentay.add("Uhou Renka");
-        Hentay.add("Hump Bang!");
-        Hentay.add("Honoo no Haramase Oppai Ero Appli Gakuen The Animation ");
-        Hentay.add("Joshikousei no Koshitsuki");
-        Hentay.add("Anata wa Watashi no Mono");
+        Hentay.add("");
+        Hentay.add("");
 
-
-
-        System.out.println("Anime Hentay en listas para descarga.");
+        System.out.printl@@n("Anime Hentay en listas para descarga.");
         int i=1;
 
         for (String descarga : Hentay){
@@ -53,3 +48,10 @@ public class GuardadoH {
     }
     
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
