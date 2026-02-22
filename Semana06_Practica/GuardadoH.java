@@ -1,6 +1,5 @@
 package Semana06_Practica;
 import java.util.ArrayList;
-
 public class GuardadoH {
 
     public static void main(String[] args) {
@@ -38,17 +37,14 @@ public class GuardadoH {
         Hentay.add("Joshikousei no Koshitsuki");
         Hentay.add("Anata wa Watashi no Mono");
 
-
-
-        System.out.println("Anime Hentay en listas para descarga.");
+        System.out.println("Anime en listas para descarga.");
         int i=1;
 
         for (String descarga : Hentay){
-            System.out.println( +i+ ". Hentay por descargar: " +descarga);
+            System.out.println( +i+ ". Animes por descargar: " +descarga);
             i++;
         }
-
-
+    System.out.println("Final del listado......");
 
     }
     
