@@ -14312,3 +14312,685 @@ ADVERTENCIA: Unmatched cancel notification for request id 14
 2026.02.23 21:55:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
 2026.02.23 21:55:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
 2026.02.23 21:55:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.23 22:27:44 INFO  Shutting down server
+2026.02.23 22:27:44 INFO  Memory monitor stopped
+2026.02.23 22:27:44 INFO  shutting down Metals
+2026.02.23 22:27:44 INFO  Exiting server
+2026.02.24 14:14:54 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.109.5.
+2026.02.24 14:14:54 INFO  Memory monitor started
+2026.02.24 14:14:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+feb. 24, 2026 2:14:55 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.02.24 14:14:55 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.24 14:14:55 WARN  Build server is not auto-connectable.
+2026.02.24 14:14:55 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica01.java
+2026.02.24 14:14:56 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana07_Practica/ClasePersonalPractica01.java. Output:
+
+2026.02.24 14:14:57 INFO  Shutting down server
+2026.02.24 14:14:57 INFO  Memory monitor stopped
+2026.02.24 14:14:57 INFO  shutting down Metals
+2026.02.24 14:14:57 INFO  Exiting server
+2026.02.24 14:15:20 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.109.5.
+2026.02.24 14:15:20 INFO  Memory monitor started
+2026.02.24 14:15:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.24 14:15:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:23 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.24 14:15:24 WARN  Build server is not auto-connectable.
+2026.02.24 14:15:24 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java
+2026.02.24 14:15:24 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica01.java
+2026.02.24 14:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:25 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana07_Practica/ClasePersonalPractica01.java. Output:
+
+2026.02.24 14:15:25 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana07_Practica/ClasePersonalPractica02.java. Output:
+
+2026.02.24 14:15:25 INFO  time: code lens generation in 1.71s
+2026.02.24 14:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:29 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:32 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:33 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:34 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:34 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:35 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+feb. 24, 2026 2:15:35 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 20
+2026.02.24 14:15:35 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:36 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:36 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:36 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:37 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:37 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:43 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:15:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+feb. 24, 2026 2:15:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 44
+feb. 24, 2026 2:15:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 45
+feb. 24, 2026 2:15:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 46
+2026.02.24 14:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:16:01 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:16:04 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana07_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.02.24 14:16:19 INFO  Shutting down server
+2026.02.24 14:16:19 INFO  Memory monitor stopped
+2026.02.24 14:16:19 INFO  shutting down Metals
+2026.02.24 14:16:19 INFO  Exiting server
+2026.03.18 14:04:59 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.111.0.
+2026.03.18 14:04:59 INFO  Memory monitor started
+2026.03.18 14:05:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+mar. 18, 2026 2:05:01 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.18 14:05:01 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:01 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:05:01 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.18 14:05:01 WARN  Build server is not auto-connectable.
+2026.03.18 14:05:01 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java
+2026.03.18 14:05:01 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+mar. 18, 2026 2:05:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+mar. 18, 2026 2:05:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+mar. 18, 2026 2:05:03 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:05:03 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java. Output:
+
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:02 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.18 14:05:03 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Nodo.java. Output:
+
+mar. 18, 2026 2:05:03 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+2026.03.18 14:05:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:04 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:08 INFO  Shutting down server
+2026.03.18 14:05:08 INFO  Memory monitor stopped
+2026.03.18 14:05:08 INFO  shutting down Metals
+2026.03.18 14:05:08 INFO  Exiting server
+2026.03.18 14:05:41 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.111.0.
+2026.03.18 14:05:41 INFO  time: initialize in 0.11s
+2026.03.18 14:05:41 INFO  Memory monitor started
+2026.03.18 14:05:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+mar. 18, 2026 2:05:51 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.18 14:05:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:53 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.18 14:05:54 WARN  Build server is not auto-connectable.
+mar. 18, 2026 2:05:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.03.18 14:05:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:05:54 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.18 14:05:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java. Output:
+
+2026.03.18 14:06:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:06:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+mar. 18, 2026 2:06:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+mar. 18, 2026 2:06:10 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.18 14:06:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:06:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14/Nodo.java. Output:
+
+2026.03.18 14:06:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Nodo.java. Using fallback presentation compiler.
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:28 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java
+2026.03.18 14:06:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+mar. 18, 2026 2:06:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 26
+2026.03.18 14:06:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:28 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14/Clase01ArbolBinario.java. Output:
+
+2026.03.18 14:06:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:54 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java
+2026.03.18 14:06:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14/Clase01ArbolBinario.java. Output:
+
+mar. 18, 2026 2:06:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 40
+2026.03.18 14:06:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:55 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:06:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14\Clase01ArbolBinario.java. Using fallback presentation compiler.
+2026.03.18 14:07:23 INFO  Shutting down server
+2026.03.18 14:07:23 INFO  Memory monitor stopped
+2026.03.18 14:07:23 INFO  shutting down Metals
+2026.03.18 14:07:23 INFO  Exiting server
+2026.03.31 12:12:07 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.113.0.
+2026.03.31 12:12:07 INFO  Memory monitor started
+2026.03.31 12:12:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 12:12:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:12:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+mar. 31, 2026 12:12:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.03.31 12:12:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:09 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.31 12:12:09 WARN  Build server is not auto-connectable.
+2026.03.31 12:12:09 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:12:09 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java
+mar. 31, 2026 12:12:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+2026.03.31 12:12:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+mar. 31, 2026 12:12:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+2026.03.31 12:12:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/Personal.java. Output:
+
+2026.03.31 12:12:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:12:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:10 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java
+mar. 31, 2026 12:12:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.03.31 12:12:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalRaid.java. Output:
+
+2026.03.31 12:12:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:13 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:31 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:31 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:31 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:32 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:41 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java
+2026.03.31 12:12:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalRaid.java. Output:
+
+2026.03.31 12:12:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java
+2026.03.31 12:12:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/Personal.java. Output:
+
+2026.03.31 12:12:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java
+2026.03.31 12:12:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica05.java. Output:
+
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:12:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica04.java. Output:
+
+2026.03.31 12:12:49 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica02.java
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica02.java. Output:
+
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica02.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java. Using fallback presentation compiler.
+2026.03.31 12:12:50 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica01.java. Output:
+
+2026.03.31 12:12:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java. Using fallback presentation compiler.
+2026.03.31 12:12:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java. Using fallback presentation compiler.
+2026.03.31 12:12:53 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica01.java. Using fallback presentation compiler.
+2026.03.31 12:12:57 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.31 12:12:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:12:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:12:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java. Output:
+
+2026.03.31 12:12:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:12:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Nodo.java. Output:
+
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:00 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java
+2026.03.31 12:12:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:12:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/ArbolBinario.java. Output:
+
+2026.03.31 12:13:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:03 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.31 12:13:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:03 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java. Output:
+
+2026.03.31 12:13:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:07 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java
+2026.03.31 12:13:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:07 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/ArbolBinario.java. Output:
+
+2026.03.31 12:13:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:10 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java
+2026.03.31 12:13:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Nodo.java. Output:
+
+2026.03.31 12:13:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Nodo.java. Using fallback presentation compiler.
+2026.03.31 12:13:11 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java
+2026.03.31 12:13:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/ArbolBinario.java. Output:
+
+2026.03.31 12:13:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:12 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\ArbolBinario.java. Using fallback presentation compiler.
+2026.03.31 12:13:17 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java
+2026.03.31 12:13:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:17 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana14_2/Clase01ArbolBinomial.java. Output:
+
+2026.03.31 12:13:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:17 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana14_2\Clase01ArbolBinomial.java. Using fallback presentation compiler.
+2026.03.31 12:13:24 INFO  Shutting down server
+2026.03.31 12:13:24 INFO  Memory monitor stopped
+2026.03.31 12:13:24 INFO  shutting down Metals
+2026.03.31 12:13:24 INFO  Exiting server
+2026.03.31 12:13:48 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.113.0.
+2026.03.31 12:13:48 INFO  Memory monitor started
+2026.03.31 12:13:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 12:13:50 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.31 12:13:50 WARN  Build server is not auto-connectable.
+2026.03.31 12:13:50 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:13:51 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+mar. 31, 2026 12:13:51 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.31 12:13:53 INFO  Shutting down server
+2026.03.31 12:13:53 INFO  Memory monitor stopped
+2026.03.31 12:13:53 INFO  shutting down Metals
+2026.03.31 12:13:53 INFO  Exiting server
+2026.03.31 12:14:17 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos' for client Visual Studio Code 1.113.0.
+2026.03.31 12:14:17 INFO  Memory monitor started
+2026.03.31 12:14:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 12:14:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:14:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+2026.03.31 12:14:23 WARN  no build tool detected in workspace 'C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.31 12:14:23 WARN  Build server is not auto-connectable.
+2026.03.31 12:14:23 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:14:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:26 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:14:26 INFO  time: code lens generation in 2.5s
+2026.03.31 12:14:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:14:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11
+mar. 31, 2026 12:14:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 12
+mar. 31, 2026 12:14:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.03.31 12:14:42 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:42 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:42 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:43 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:46 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:14:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:14:53 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.31 12:14:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:14:55 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.03.31 12:14:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:08 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:15:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 42
+2026.03.31 12:15:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:12 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:12 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:15:13 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 48
+2026.03.31 12:15:14 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:15:15 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 58
+2026.03.31 12:15:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:15 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:16 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:16 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:18 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:19 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:19 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/Personal.java. Output:
+
+mar. 31, 2026 12:15:19 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 64
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:15:19 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:20 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:20 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:21 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java
+2026.03.31 12:15:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:21 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/Personal.java. Output:
+
+2026.03.31 12:15:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:21 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalRaid.java. Output:
+
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica05.java. Output:
+
+2026.03.31 12:15:24 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:25 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:25 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:25 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java
+2026.03.31 12:15:25 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:15:25 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:15:25 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica04.java. Output:
+
+2026.03.31 12:15:25 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:15:26 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica04.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java
+2026.03.31 12:15:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalPractica05.java. Output:
+
+2026.03.31 12:15:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalPractica05.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalRaid.java. Output:
+
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:29 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:29 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:28 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:29 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:32 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:34 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java
+2026.03.31 12:15:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/Personal.java. Output:
+
+2026.03.31 12:15:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\Personal.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:38 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:39 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/ClasePersonalRaid.java. Output:
+
+2026.03.31 12:15:39 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\ClasePersonalRaid.java. Using fallback presentation compiler.
+2026.03.31 12:15:41 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:41 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:41 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:40 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:44 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:45 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:47 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:47 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:48 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:50 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:51 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:53 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:52 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:53 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:55 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:55 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:55 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:55 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:56 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:15:57 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:58 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:15:59 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:00 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:02 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:03 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:04 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:05 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:05 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:06 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:07 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:09 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:10 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+mar. 31, 2026 12:16:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 317
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:12 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Dayana/OneDrive/Escritorio/Algoritmos%20y%20Estructuras%20de%20Datos/Semana06_Practica/GuardadoH.java. Output:
+
+2026.03.31 12:16:14 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:14 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:17 WARN  no build target for: C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java
+2026.03.31 12:16:18 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:22 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
+2026.03.31 12:16:23 INFO  no build target found for C:\Users\Dayana\OneDrive\Escritorio\Algoritmos y Estructuras de Datos\Semana06_Practica\GuardadoH.java. Using fallback presentation compiler.
